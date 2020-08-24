@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493112519649",
+    "firebase_url": "https://absa-weatherapp.firebaseio.com",
+    "project_id": "absa-weatherapp",
+    "storage_bucket": "absa-weatherapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493112519649:android:26acbf7b6948cb2e6100a0",
+        "android_client_info": {
+          "package_name": "com.absa.openweatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493112519649-1stbnj1jdok60ooj91cnpki0fjq1uu2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNgQv_3FdbDyIeYMgS14imVABjfYWMxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493112519649-1stbnj1jdok60ooj91cnpki0fjq1uu2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
